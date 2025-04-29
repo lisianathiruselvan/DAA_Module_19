@@ -1,4 +1,4 @@
-# EX 1A Reverse a String
+# EX 1A Length if a String
 ## DATE:18.2.25
 ## AIM:
 Write a python program to calculate the length of the given string using recursion
@@ -18,7 +18,7 @@ Write a python program to calculate the length of the given string using recursi
 ## Program:
 ```
 /*
-Program to implement Reverse a String
+Program to implement to find Length of  a String
 Developed by: LISIANA T
 Register Number:  212222240053
 */
