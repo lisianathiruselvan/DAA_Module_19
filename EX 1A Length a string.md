@@ -34,7 +34,7 @@ print(f"length of {str} is {length(str)}")
 ```
 
 ## Output:
-c
+
 ![image](https://github.com/user-attachments/assets/6834f717-db14-40c1-879f-8f3e6c330e98)
 
 
