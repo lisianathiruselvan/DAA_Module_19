@@ -1,5 +1,5 @@
 # EX 1B Merge Sort
-## DATE: 19.2.25
+## DATE: 22.2.25
 ## AIM:
 To write a python program to sort the first half of the list using merge sort.
 
